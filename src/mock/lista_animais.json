@@ -1,0 +1,5302 @@
+[
+    {
+        "dt_minima": "2010-10-08T06:00:00.000Z",
+        "nome": "Lisa",
+        "id": "100",
+        "id_animal": "027bd965-8288-4897-ac02-9f9523730e4b",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000100",
+        "id_rastreabilidade": 100000000000100,
+        "id_rastreabilidade_manejo": "000010",
+        "peso": "465",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-10-08T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-10T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-11-30T05:00:00.000Z",
+        "nome": "Ellen",
+        "id": "36",
+        "id_animal": "04d64b80-640d-496a-a383-d19591e2823d",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000036",
+        "id_rastreabilidade": 100000000000036,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "430",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-11-30T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-07T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-05-05T06:00:00.000Z",
+        "nome": "Anna",
+        "id": "2",
+        "id_animal": "060fbf99-9436-4cfe-9454-d8779c908099",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000002",
+        "id_rastreabilidade": 100000000000002,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "517",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-05-05T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-04T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-11-26T05:00:00.000Z",
+        "nome": "Carrie",
+        "id": "4",
+        "id_animal": "071e4cfe-99c6-44f6-97d7-1efd79c620c2",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000004",
+        "id_rastreabilidade": 100000000000004,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "442",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-11-26T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-06T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-06-08T06:00:00.000Z",
+        "nome": "Mary",
+        "id": "11",
+        "id_animal": "0b4ff957-6382-41af-82c4-5a0c952ed55a",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000011",
+        "id_rastreabilidade": 100000000000011,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "442",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-06-08T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-13T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-07-02T06:00:00.000Z",
+        "nome": "Stacy",
+        "id": "60",
+        "id_animal": "0b730d8c-1ad4-404d-9386-3d5f3c7303a9",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000060",
+        "id_rastreabilidade": 100000000000060,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "455",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-07-02T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-01T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-11-10T05:00:00.000Z",
+        "nome": "Pamela",
+        "id": "59",
+        "id_animal": "0bff0e8a-e66b-482a-807f-19ca591c9574",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000059",
+        "id_rastreabilidade": 100000000000059,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "504",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-11-10T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-30T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-12-19T05:00:00.000Z",
+        "nome": "Fiona",
+        "id": "97",
+        "id_animal": "0d87624e-5533-46be-900f-3c74ec56a586",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000097",
+        "id_rastreabilidade": 100000000000097,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "502",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-12-19T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-07T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-09-24T06:00:00.000Z",
+        "nome": "Anna",
+        "id": "62",
+        "id_animal": "10983af6-e15d-47d6-a4e6-83b0db5f3eb2",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000062",
+        "id_rastreabilidade": 100000000000062,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "454",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-09-24T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-03T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-12-04T05:00:00.000Z",
+        "nome": "Mary",
+        "id": "41",
+        "id_animal": "1393901b-1f8c-41c7-abb8-aed5d808459f",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000041",
+        "id_rastreabilidade": 100000000000041,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "475",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-12-04T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-12T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-01-29T05:00:00.000Z",
+        "nome": "Josephine",
+        "id": "68",
+        "id_animal": "1564c617-c13a-455c-9811-1a59e62071bd",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000068",
+        "id_rastreabilidade": 100000000000068,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "497",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-01-29T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-09T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-09-16T06:00:00.000Z",
+        "nome": "Anna",
+        "id": "47",
+        "id_animal": "166a7fb9-4941-4e89-9f64-f4b8fb4f929e",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000047",
+        "id_rastreabilidade": 100000000000047,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "446",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-09-16T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-18T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-07-10T06:00:00.000Z",
+        "nome": "Karen",
+        "id": "99",
+        "id_animal": "174578a8-82b3-48ee-b61b-5eceb4837a14",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000099",
+        "id_rastreabilidade": 100000000000099,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "485",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-07-10T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-09T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-01-10T05:00:00.000Z",
+        "nome": "Josephine",
+        "id": "83",
+        "id_animal": "2109c0b7-d125-4ccc-9f57-b01c4c1017d9",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000083",
+        "id_rastreabilidade": 100000000000083,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "477",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-01-10T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-24T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-03-17T06:00:00.000Z",
+        "nome": "Mary",
+        "id": "26",
+        "id_animal": "24f58170-e4dc-451c-aadb-9a40186fd1ea",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000026",
+        "id_rastreabilidade": 100000000000026,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "450",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-03-17T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-28T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-04-13T06:00:00.000Z",
+        "nome": "Pamela",
+        "id": "14",
+        "id_animal": "267f8108-733a-43ea-89aa-bf0b0a166e8e",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000014",
+        "id_rastreabilidade": 100000000000014,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "483",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-04-13T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-16T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-08-31T06:00:00.000Z",
+        "nome": "Fiona",
+        "id": "7",
+        "id_animal": "29b8c6f9-835f-43db-822b-e37fad1efa36",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000007",
+        "id_rastreabilidade": 100000000000007,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "449",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-08-31T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-09T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-07-29T06:00:00.000Z",
+        "nome": "Lisa",
+        "id": "85",
+        "id_animal": "2bbf1258-00ec-44b2-96c5-c81543909a10",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000085",
+        "id_rastreabilidade": 100000000000085,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "441",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-07-29T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-26T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-04-05T06:00:00.000Z",
+        "nome": "Maureen",
+        "id": "87",
+        "id_animal": "30c230b1-d4a0-4a04-858d-dc2dc2386dc7",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000087",
+        "id_rastreabilidade": 100000000000087,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "480",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-04-05T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-28T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-02-15T05:00:00.000Z",
+        "nome": "Karen",
+        "id": "54",
+        "id_animal": "323cc82b-78ae-4fe2-a7b1-d90577d3cfdb",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000054",
+        "id_rastreabilidade": 100000000000054,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "433",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-02-15T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-25T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-10-02T06:00:00.000Z",
+        "nome": "Ellen",
+        "id": "81",
+        "id_animal": "353d3c38-8172-4776-bb5f-3efe3a394dc3",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000081",
+        "id_rastreabilidade": 100000000000081,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "432",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-10-02T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-22T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-10-13T06:00:00.000Z",
+        "nome": "Karen",
+        "id": "69",
+        "id_animal": "397a0b32-bfbb-415b-84e6-2f4827e27d3b",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000069",
+        "id_rastreabilidade": 100000000000069,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "473",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-10-13T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-10T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-08-24T06:00:00.000Z",
+        "nome": "Becky",
+        "id": "63",
+        "id_animal": "3d8613d0-e8ea-4cb5-8311-af9bccd60478",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000063",
+        "id_rastreabilidade": 100000000000063,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "430",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-08-24T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-04T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-11-17T05:00:00.000Z",
+        "nome": "Stacy",
+        "id": "30",
+        "id_animal": "3d954fca-2af5-4e9c-ba13-e0e0900dcd2d",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000030",
+        "id_rastreabilidade": 100000000000030,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "449",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-11-17T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-01T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-08-08T06:00:00.000Z",
+        "nome": "Mary",
+        "id": "71",
+        "id_animal": "3e1a4948-a8fe-46f9-be4b-297add9c3bb8",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000071",
+        "id_rastreabilidade": 100000000000071,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "446",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-08-08T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-12T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-03-01T06:00:00.000Z",
+        "nome": "Carrie",
+        "id": "49",
+        "id_animal": "3f3d83c1-1f21-46a4-ace6-5cc03e2a81ed",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000049",
+        "id_rastreabilidade": 100000000000049,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "528",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-03-01T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-20T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-05-11T06:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "46",
+        "id_animal": "41428d83-7503-45e1-8fe9-20e6dcf81a39",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000046",
+        "id_rastreabilidade": 100000000000046,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "500",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-05-11T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-17T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-02T06:00:00.000Z",
+        "nome": "Becky",
+        "id": "93",
+        "id_animal": "437d4208-d461-4179-b410-876a74d5d456",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000093",
+        "id_rastreabilidade": 100000000000093,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "524",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-02T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-03T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-02-20T05:00:00.000Z",
+        "nome": "Carrie",
+        "id": "94",
+        "id_animal": "44fd64db-ec0c-4529-b9c3-9986e185ec41",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000094",
+        "id_rastreabilidade": 100000000000094,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "517",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-02-20T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-04T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-10-01T06:00:00.000Z",
+        "nome": "Becky",
+        "id": "18",
+        "id_animal": "47a4dddf-f1d9-4ff2-90cb-b7d786c89d08",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000018",
+        "id_rastreabilidade": 100000000000018,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "498",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-10-01T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-20T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-06-20T06:00:00.000Z",
+        "nome": "Pamela",
+        "id": "44",
+        "id_animal": "4b092cf4-6970-42cd-96f9-c5c7c6df8e95",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000044",
+        "id_rastreabilidade": 100000000000044,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "474",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-06-20T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-15T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-01-22T05:00:00.000Z",
+        "nome": "Josephine",
+        "id": "38",
+        "id_animal": "4d4731ab-63e5-4b3e-b291-3791878f9f83",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000038",
+        "id_rastreabilidade": 100000000000038,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "514",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-01-22T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-09T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-04-27T06:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "35",
+        "id_animal": "4dd4b090-cd79-4d55-a9ee-b57d4767111f",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000035",
+        "id_rastreabilidade": 100000000000035,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "454",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-04-27T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-06T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-07T06:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "31",
+        "id_animal": "504bf13e-580a-49bc-a779-df58f58cc177",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000031",
+        "id_rastreabilidade": 100000000000031,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "483",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-07T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-02T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-06T05:00:00.000Z",
+        "nome": "Fiona",
+        "id": "82",
+        "id_animal": "504db5be-96f9-4f89-8066-309203d3581c",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000082",
+        "id_rastreabilidade": 100000000000082,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "487",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-06T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-23T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-12-21T05:00:00.000Z",
+        "nome": "Lisa",
+        "id": "70",
+        "id_animal": "50d6ec34-3a99-4311-be6e-47be6bb5bb4d",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000070",
+        "id_rastreabilidade": 100000000000070,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "491",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-12-21T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-11T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-07-26T06:00:00.000Z",
+        "nome": "Ellen",
+        "id": "96",
+        "id_animal": "54888e0d-b494-4dc4-8af3-a96886496329",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000096",
+        "id_rastreabilidade": 100000000000096,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "468",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-07-26T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-06T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-11-06T05:00:00.000Z",
+        "nome": "Mary",
+        "id": "56",
+        "id_animal": "555bf040-4ee5-4118-bc0a-a4c632001b7a",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000056",
+        "id_rastreabilidade": 100000000000056,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "435",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-11-06T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-27T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-03-20T06:00:00.000Z",
+        "nome": "Becky",
+        "id": "78",
+        "id_animal": "584eb78c-8c1d-4a91-9fcd-2960b1291779",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000078",
+        "id_rastreabilidade": 100000000000078,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "499",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-03-20T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-19T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-05-07T06:00:00.000Z",
+        "nome": "Lisa",
+        "id": "55",
+        "id_animal": "5ad2b078-b2ba-4cdf-b91b-d2b5af8bd18e",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000055",
+        "id_rastreabilidade": 100000000000055,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "455",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-05-07T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-26T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-10-19T05:00:00.000Z",
+        "nome": "Stacy",
+        "id": "15",
+        "id_animal": "5c74fe7c-5dc2-42e2-bebc-a0b12d330158",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000015",
+        "id_rastreabilidade": 100000000000015,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "521",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-10-19T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-17T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-04-25T06:00:00.000Z",
+        "nome": "Maureen",
+        "id": "57",
+        "id_animal": "5e4f38da-d1af-4bcd-afa0-6728a01726ef",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000057",
+        "id_rastreabilidade": 100000000000057,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "446",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-04-25T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-28T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-19T06:00:00.000Z",
+        "nome": "Maureen",
+        "id": "42",
+        "id_animal": "69da8a1f-abf8-4d88-b66d-267551095629",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000042",
+        "id_rastreabilidade": 100000000000042,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "473",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-19T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-13T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-12-30T05:00:00.000Z",
+        "nome": "Josephine",
+        "id": "53",
+        "id_animal": "6af58d60-c844-4fd2-ae1f-ad44b1b8ee70",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000053",
+        "id_rastreabilidade": 100000000000053,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "525",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-12-30T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-24T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-07-21T06:00:00.000Z",
+        "nome": "Ellen",
+        "id": "21",
+        "id_animal": "6fde9599-68bc-4d45-a8a9-0764baf0e712",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000021",
+        "id_rastreabilidade": 100000000000021,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "488",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-07-21T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-23T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-11-19T05:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "91",
+        "id_animal": "70cbcd06-ea02-4453-9d33-248e092273cd",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000091",
+        "id_rastreabilidade": 100000000000091,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "465",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-11-19T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-01T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-12-05T05:00:00.000Z",
+        "nome": "Maureen",
+        "id": "72",
+        "id_animal": "7dee6269-8810-4b7c-b782-aef344fabbd4",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000072",
+        "id_rastreabilidade": 100000000000072,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "479",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-12-05T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-13T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-05-29T06:00:00.000Z",
+        "nome": "Maureen",
+        "id": "27",
+        "id_animal": "7e564111-eda4-4d4f-bb99-66baaf7c4350",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000027",
+        "id_rastreabilidade": 100000000000027,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "518",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-05-29T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-29T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-12-26T05:00:00.000Z",
+        "nome": "Olivia",
+        "id": "43",
+        "id_animal": "803c4055-de09-417b-9f49-6859537cad1f",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000043",
+        "id_rastreabilidade": 100000000000043,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "506",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-12-26T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-14T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-07-04T06:00:00.000Z",
+        "nome": "Anna",
+        "id": "77",
+        "id_animal": "83a5db08-5af9-4f38-b533-509d9e90aeca",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000077",
+        "id_rastreabilidade": 100000000000077,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "528",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-07-04T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-18T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-01T05:00:00.000Z",
+        "nome": "Ellen",
+        "id": "51",
+        "id_animal": "84d5a5db-378e-480b-9108-7564d8be50f6",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000051",
+        "id_rastreabilidade": 100000000000051,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "491",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-01T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-22T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-24T06:00:00.000Z",
+        "nome": "Becky",
+        "id": "3",
+        "id_animal": "8554266a-5d35-4196-8c4f-2d5f804341fa",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000003",
+        "id_rastreabilidade": 100000000000003,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "518",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-24T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-05T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-12-21T05:00:00.000Z",
+        "nome": "Fiona",
+        "id": "52",
+        "id_animal": "858d0713-a93e-4099-ac97-b4dc5b568d84",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000052",
+        "id_rastreabilidade": 100000000000052,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "444",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-12-21T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-23T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-04-29T06:00:00.000Z",
+        "nome": "Stacy",
+        "id": "90",
+        "id_animal": "8bb2d559-c96b-4580-8a62-83181bb18323",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000090",
+        "id_rastreabilidade": 100000000000090,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "496",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-04-29T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-31T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-04-09T06:00:00.000Z",
+        "nome": "Anna",
+        "id": "32",
+        "id_animal": "8bc83c1d-e858-42c7-aec7-8aae421f0179",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000032",
+        "id_rastreabilidade": 100000000000032,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "462",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-04-09T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-03T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-05-18T06:00:00.000Z",
+        "nome": "Fiona",
+        "id": "37",
+        "id_animal": "8fea872c-5812-4f8e-885b-f674691bac8f",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000037",
+        "id_rastreabilidade": 100000000000037,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "451",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-05-18T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-08T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-24T06:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "50",
+        "id_animal": "9101273a-82ad-41ba-a483-643d9ba1d692",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000050",
+        "id_rastreabilidade": 100000000000050,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "513",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-24T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-21T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-11-08T05:00:00.000Z",
+        "nome": "Becky",
+        "id": "48",
+        "id_animal": "91507ea9-6bbc-4090-aa09-42f15f5ef4f4",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000048",
+        "id_rastreabilidade": 100000000000048,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "484",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-11-08T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-19T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-01-23T05:00:00.000Z",
+        "nome": "Lisa",
+        "id": "25",
+        "id_animal": "947b55bd-5228-4cd8-8c33-231ff15c4c62",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000025",
+        "id_rastreabilidade": 100000000000025,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "499",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-01-23T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-27T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-01-05T05:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "16",
+        "id_animal": "94aee8f4-ab9f-40f8-8a19-398d5d434ee3",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000016",
+        "id_rastreabilidade": 100000000000016,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "485",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-01-05T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-18T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-03-04T06:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "76",
+        "id_animal": "97fc1fc3-6844-492d-8084-3ecbbb6db72b",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000076",
+        "id_rastreabilidade": 100000000000076,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "440",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-03-04T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-17T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-16T05:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "5",
+        "id_animal": "9ac2762e-6788-4ffe-8890-859b162bebf7",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000005",
+        "id_rastreabilidade": 100000000000005,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "485",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-16T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-07T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-10-05T06:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "80",
+        "id_animal": "9b7d4695-809c-4ef5-8185-e37e5dd45bb3",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000080",
+        "id_rastreabilidade": 100000000000080,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "503",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-10-05T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-21T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-06-21T06:00:00.000Z",
+        "nome": "Karen",
+        "id": "84",
+        "id_animal": "9ba8ab4a-cce7-4515-a1ee-b469d76725cf",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000084",
+        "id_rastreabilidade": 100000000000084,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "433",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-06-21T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-25T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-03-01T06:00:00.000Z",
+        "nome": "Stacy",
+        "id": "75",
+        "id_animal": "9fd67d55-35c2-4e29-a636-2c13816a5766",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000075",
+        "id_rastreabilidade": 100000000000075,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "452",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-03-01T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-16T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-04-17T06:00:00.000Z",
+        "nome": "Fiona",
+        "id": "67",
+        "id_animal": "9fe9276a-480c-4243-9137-8cdb1558da85",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000067",
+        "id_rastreabilidade": 100000000000067,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "483",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-04-17T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-08T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-05-04T06:00:00.000Z",
+        "nome": "Carrie",
+        "id": "19",
+        "id_animal": "a286aa0a-09c3-4fb3-a45c-0ad7ff8a3997",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000019",
+        "id_rastreabilidade": 100000000000019,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "458",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-05-04T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-21T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-03-21T06:00:00.000Z",
+        "nome": "Anna",
+        "id": "17",
+        "id_animal": "a4d5958c-777b-40b2-945d-26f9263695ef",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000017",
+        "id_rastreabilidade": 100000000000017,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "494",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-03-21T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-19T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-11-01T05:00:00.000Z",
+        "nome": "Lisa",
+        "id": "40",
+        "id_animal": "aa61bb48-9da7-490b-b999-a8d1c7f80a58",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000040",
+        "id_rastreabilidade": 100000000000040,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "474",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-11-01T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-11T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-10-22T05:00:00.000Z",
+        "nome": "Anna",
+        "id": "92",
+        "id_animal": "ab9ec446-91ed-42e0-a299-035324c1157a",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000092",
+        "id_rastreabilidade": 100000000000092,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "456",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-10-22T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-02T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-02-01T05:00:00.000Z",
+        "nome": "Becky",
+        "id": "33",
+        "id_animal": "b6a7f74a-6cd5-43e8-833f-0d4a3a8bde22",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000033",
+        "id_rastreabilidade": 100000000000033,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "502",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-02-01T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-04T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-04-25T06:00:00.000Z",
+        "nome": "Maureen",
+        "id": "12",
+        "id_animal": "b76e44b8-4dbf-420d-867c-69662925ca7d",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000012",
+        "id_rastreabilidade": 100000000000012,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "500",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-04-25T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-14T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-03-17T06:00:00.000Z",
+        "nome": "Josephine",
+        "id": "23",
+        "id_animal": "bb1938e6-486e-4f2a-92d3-1de83f17227d",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000023",
+        "id_rastreabilidade": 100000000000023,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "526",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-03-17T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-25T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-03-19T06:00:00.000Z",
+        "nome": "Olivia",
+        "id": "73",
+        "id_animal": "c0672737-ad4c-4517-ab04-a3aca87d99a4",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000073",
+        "id_rastreabilidade": 100000000000073,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "523",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-03-19T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-14T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-01-03T05:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "1",
+        "id_animal": "c46c56e9-1dd5-4bdf-9f55-600803c44645",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000001",
+        "id_rastreabilidade": 100000000000001,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "451",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-01-03T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-03T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-07-06T06:00:00.000Z",
+        "nome": "Carrie",
+        "id": "34",
+        "id_animal": "c7433d9c-437e-48cd-a94c-e8747ba25f22",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000034",
+        "id_rastreabilidade": 100000000000034,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "485",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-07-06T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-05T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-04-26T06:00:00.000Z",
+        "nome": "Ellen",
+        "id": "66",
+        "id_animal": "cadfd6a5-0651-4949-9edf-d19b37d3cdee",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000066",
+        "id_rastreabilidade": 100000000000066,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "489",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-04-26T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-07T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-05-09T06:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "20",
+        "id_animal": "cb77de86-771b-4784-9e14-90e3355f7071",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000020",
+        "id_rastreabilidade": 100000000000020,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "439",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-05-09T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-22T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-13T06:00:00.000Z",
+        "nome": "Olivia",
+        "id": "88",
+        "id_animal": "d537604d-75d1-4168-9269-47a0e9d10295",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000088",
+        "id_rastreabilidade": 100000000000088,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "461",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-13T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-29T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-11-23T05:00:00.000Z",
+        "nome": "Mary",
+        "id": "86",
+        "id_animal": "d618d482-4ee3-4bbb-a2f6-e513d12ad0e5",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000086",
+        "id_rastreabilidade": 100000000000086,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "511",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-11-23T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-27T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-02-20T05:00:00.000Z",
+        "nome": "Olivia",
+        "id": "28",
+        "id_animal": "d984e188-20d1-4e7b-b5b7-5b6f44c81ba0",
+        "id_lote": 901,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000028",
+        "id_rastreabilidade": 100000000000028,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "529",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-02-20T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-30T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2011",
+            "id_lote": 901
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 69,
+            "origem": {
+                "no_fazenda": "Santo Antonio"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-08-06T06:00:00.000Z",
+        "nome": "Lisa",
+        "id": "10",
+        "id_animal": "db19790f-a700-4501-ac3f-5300de4ffed6",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000010",
+        "id_rastreabilidade": 100000000000010,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "453",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-08-06T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-12T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-17T05:00:00.000Z",
+        "nome": "Stacy",
+        "id": "45",
+        "id_animal": "dd54fed1-2cd4-4a0d-bdea-8195facc8158",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000045",
+        "id_rastreabilidade": 100000000000045,
+        "id_rastreabilidade_manejo": "000004",
+        "peso": "475",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-17T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-16T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-13T06:00:00.000Z",
+        "nome": "Olivia",
+        "id": "58",
+        "id_animal": "e09d29a4-b86e-493c-b75c-348c14f4f718",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000058",
+        "id_rastreabilidade": 100000000000058,
+        "id_rastreabilidade_manejo": "000005",
+        "peso": "444",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-13T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-29T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-20T06:00:00.000Z",
+        "nome": "Pamela",
+        "id": "29",
+        "id_animal": "e116d78e-4647-4dc4-81c3-ebb032c390b3",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000029",
+        "id_rastreabilidade": 100000000000029,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "469",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-20T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-31T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-04-13T06:00:00.000Z",
+        "nome": "Ellen",
+        "id": "6",
+        "id_animal": "e3f1e42b-65c5-477e-af23-d7a5844679b3",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000006",
+        "id_rastreabilidade": 100000000000006,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "458",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-04-13T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-08T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-04-15T06:00:00.000Z",
+        "nome": "Carrie",
+        "id": "64",
+        "id_animal": "e4464202-070b-4bea-8159-0c8470f36cf2",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000064",
+        "id_rastreabilidade": 100000000000064,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "452",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-04-15T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-05T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-10-14T06:00:00.000Z",
+        "nome": "Josephine",
+        "id": "98",
+        "id_animal": "e7622f4e-8aaf-4c2f-805e-e57b6de383cd",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000098",
+        "id_rastreabilidade": 100000000000098,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "501",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-10-14T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-08T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-06-09T06:00:00.000Z",
+        "nome": "Karen",
+        "id": "24",
+        "id_animal": "e8bee652-418a-4756-9c41-1ac187f7ff70",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000024",
+        "id_rastreabilidade": 100000000000024,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "431",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-06-09T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-26T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-05-14T06:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "65",
+        "id_animal": "e8c17dc9-6d3a-4376-9a1a-95492d1d1165",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000065",
+        "id_rastreabilidade": 100000000000065,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "515",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-05-14T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-06T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-11-28T05:00:00.000Z",
+        "nome": "Pamela",
+        "id": "89",
+        "id_animal": "ea436bba-c44d-4587-bd26-5fb4dbc124b5",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000089",
+        "id_rastreabilidade": 100000000000089,
+        "id_rastreabilidade_manejo": "000008",
+        "peso": "469",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-11-28T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-30T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-02-09T05:00:00.000Z",
+        "nome": "Olivia",
+        "id": "13",
+        "id_animal": "ec8c505a-9e8c-4529-8ab3-72584ff0e506",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000013",
+        "id_rastreabilidade": 100000000000013,
+        "id_rastreabilidade_manejo": "000001",
+        "peso": "436",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-02-09T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-15T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-05-07T06:00:00.000Z",
+        "nome": "Alexandra",
+        "id": "61",
+        "id_animal": "f07aaa02-2fd5-4652-84b5-6a2cfc1358a0",
+        "id_lote": 900,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000061",
+        "id_rastreabilidade": 100000000000061,
+        "id_rastreabilidade_manejo": "000006",
+        "peso": "444",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-05-07T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-02T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2013",
+            "id_lote": 900
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 71,
+            "origem": {
+                "no_fazenda": "Almaviva"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-05-17T06:00:00.000Z",
+        "nome": "Dorothy",
+        "id": "95",
+        "id_animal": "f2133f7d-7a68-4ad7-9f0c-ad85ffc7fc1e",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000095",
+        "id_rastreabilidade": 100000000000095,
+        "id_rastreabilidade_manejo": "000009",
+        "peso": "517",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-05-17T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-08-05T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-08-28T06:00:00.000Z",
+        "nome": "Karen",
+        "id": "9",
+        "id_animal": "f221577f-05bf-47e7-b4d2-4fa9f68fea53",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000009",
+        "id_rastreabilidade": 100000000000009,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "460",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-08-28T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-11T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 2,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 2,
+            "label": "Aspa"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-07-07T06:00:00.000Z",
+        "nome": "Pamela",
+        "id": "74",
+        "id_animal": "f4597d4f-b718-407b-b986-7a93391704ca",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000074",
+        "id_rastreabilidade": 100000000000074,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "506",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-07-07T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-15T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 18,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 18,
+            "label": "Fuma\u00e7a"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-05-19T06:00:00.000Z",
+        "nome": "Josephine",
+        "id": "8",
+        "id_animal": "f7296361-0520-4c8a-aa0c-2c2b9598c4ed",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000008",
+        "id_rastreabilidade": 100000000000008,
+        "id_rastreabilidade_manejo": "000000",
+        "peso": "502",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-05-19T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-10T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 3,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 3,
+            "label": "Batoque"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2011-01-01T05:00:00.000Z",
+        "nome": "Carrie",
+        "id": "79",
+        "id_animal": "f900deb3-264c-4678-9f6a-e9fb96c067c1",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000079",
+        "id_rastreabilidade": 100000000000079,
+        "id_rastreabilidade_manejo": "000007",
+        "peso": "435",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2011-01-01T05:00:00.000Z",
+        "dt_ultima_pesagem": "2013-07-20T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-08-27T06:00:00.000Z",
+        "nome": "Karen",
+        "id": "39",
+        "id_animal": "fda2b2a9-d8f9-43f1-8699-02c9018d3af2",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000039",
+        "id_rastreabilidade": 100000000000039,
+        "id_rastreabilidade_manejo": "000003",
+        "peso": "438",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-08-27T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-06-10T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 4,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 4,
+            "label": "Bananinha"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    },
+    {
+        "dt_minima": "2010-09-27T06:00:00.000Z",
+        "nome": "Fiona",
+        "id": "22",
+        "id_animal": "fe423a8f-4ecd-4783-9503-3ec199f39e6d",
+        "id_lote": 902,
+        "id_situacao_vaca": 1,
+        "id_categoria_animal": 7,
+        "id_brinco_eletronico": "95700000000022",
+        "id_rastreabilidade": 100000000000022,
+        "id_rastreabilidade_manejo": "000002",
+        "peso": "456",
+        "primeira_pesagem_safra": null,
+        "dt_carencia_abate": null,
+        "dt_nascimento": "2010-09-27T06:00:00.000Z",
+        "dt_ultima_pesagem": "2013-05-24T06:00:00.000Z",
+        "dt_pesagem_safra": null,
+        "id_tipo_chifre": 1,
+        "id_cor_pelagem": 7,
+        "id_raca": 72,
+        "id_sexo": 2,
+        "id_vaca": null,
+        "id_touro": null,
+        "pai": null,
+        "mae": null,
+        "crias": [],
+        "sexo": {
+            "value": 2,
+            "label": "f\u00eamea"
+        },
+        "lote_atual": {
+            "nome": "Compras 2012",
+            "id_lote": 902
+        },
+        "raca": {
+            "value": 72,
+            "label": "Nelore"
+        },
+        "pelagem": {
+            "value": 7,
+            "label": "Baia"
+        },
+        "tipo_chifre": {
+            "value": 1,
+            "label": "Calo"
+        },
+        "detalhes": {
+            "id_contato_fazenda_origem": 70,
+            "origem": {
+                "no_fazenda": "Pureza"
+            }
+        }
+    }
+]
