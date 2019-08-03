@@ -34,6 +34,10 @@ export default function LoginPageContainer() {
   );
 }
 
+LoginPageContainer.navigationOptions = {
+  title: 'Login',
+}
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
