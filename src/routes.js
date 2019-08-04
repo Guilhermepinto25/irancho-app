@@ -1,7 +1,7 @@
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 
-import LoginPageContainer from '~/containers/LoginPageContainer';
+import BluetoothPageContainer from '~/containers/BluetoothPageContainer';
 
-const Routes = createAppContainer(createSwitchNavigator({ LoginPageContainer }));
+const Routes = createAppContainer(createSwitchNavigator({ BluetoothPageContainer }));
 
 export default Routes;
