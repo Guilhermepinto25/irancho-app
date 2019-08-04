@@ -1,7 +1,7 @@
 import React from 'react';
 import firebase from 'react-native-firebase'
 import LoginPage from '~/components/login/LoginPage'
-import { View, StyleSheet, ToastAndroid } from 'react-native';
+import { ToastAndroid } from 'react-native';
 
 const mapFirebaseCodes = {
   'auth/invalid-email' : 'Email inválido',
@@ -15,12 +15,12 @@ export default function LoginPageContainer({ navigation }) {
   login = async (email, password) => {
 
     console.tron.log(email, password);
-
-    try {
+  
+    try { 
       if(email && password) {
         const user = await firebase.auth().signInWithEmailAndPassword(email, password);
         navigation.navigate('Main')
-        //console.tron.log(user)
+        console.tron.log(user)
       }
     } catch (err) {
       console.tron.log(err.code)
@@ -29,22 +29,10 @@ export default function LoginPageContainer({ navigation }) {
   }
 
   return (
-    <View style={styles.container}>
-      <LoginPage onPressLogin={this.login} />
-    </View>
+    <LoginPage onPressLogin={this.login} />
   );
 }
 
 LoginPageContainer.navigationOptions = {
   title: 'Login',
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-    padding: 2
-  }
-})

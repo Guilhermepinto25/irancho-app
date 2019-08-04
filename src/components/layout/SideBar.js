@@ -2,11 +2,12 @@ import React from 'react'
 import { StyleSheet, Image } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome5'
 import { Drawer, View, Text, Header, Left, Body, Right, Title, Container } from 'native-base'
+import firebase from 'react-native-firebase'
 
 const navItems = [
   { label: 'Home', icon: 'home', onClick: () => {} },
   { label: 'Configurações', icon: 'cogs', onClick: () => {} },
-  { label: 'Logout', icon: 'sign-out-alt', onClick: () => {} }
+  { label: 'Logout', icon: 'sign-out-alt', onClick: () => firebase.auth().signOut() }
 ]
 
 const SideBarContent = () => (

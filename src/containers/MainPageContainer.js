@@ -1,5 +1,6 @@
 import React from 'react';
 import MainPage from '~/components/main/MainPage';
+import withSideBar from '~/components/withSideBar'
 
 const MainPageContainer = () => {
 
@@ -58,4 +59,4 @@ const manejos = [
   }
 ]
 
-export default MainPageContainer
+export default withSideBar(MainPageContainer)
