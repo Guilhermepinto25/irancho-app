@@ -3,6 +3,11 @@ import MainPage from '~/components/main/MainPage';
 
 const MainPageContainer = ({ navigation }) => {
 
+  onPressManejo = (idManejo) => {
+    console.tron.log(idManejo)
+    navigation.navigate('Atividades')
+  }
+
   onPressSincronizarManejo = (idManejo) => {
     console.tron.log(idManejo)
     navigation.navigate('Atividades')
@@ -11,6 +16,7 @@ const MainPageContainer = ({ navigation }) => {
   return (
     <MainPage
       manejos={manejos}
+      onPressManejo={onPressManejo}
       onPressSincronizarManejo={onPressSincronizarManejo}
     />
   );

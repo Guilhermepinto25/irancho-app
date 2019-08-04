@@ -1,14 +1,14 @@
 export default mapeamento = [
   {
     label: 'Pesagem',
-    icon: 'balance-scale',
+    icon: 'weight-hanging',
     backgroundColor: '#332411',
     tipo: 'pesagem',
     navigate: (navigator) => navigator.navigate('Pesagem')
   },
   {
     label: 'Medicamento',
-    icon: 'sync',
+    icon: 'syringe',
     backgroundColor: '#634125',
     tipo: 'medicamento',
     navigate: (navigator) => navigator.navigate('Medicamento')
@@ -22,28 +22,28 @@ export default mapeamento = [
   },
   {
     label: 'Entrada',
-    icon: 'sync',
+    icon: 'sign-in-alt',
     backgroundColor: '#bb7505',
     tipo: 'entrada',
     navigate: (navigator) => navigator.navigate('Entrada')
   },
   {
     label: 'Venda',
-    icon: 'sync',
+    icon: 'dollar-sign',
     backgroundColor: '#3c4f22',
     tipo: 'venda',
     navigate: (navigator) => navigator.navigate('Venda')
   },
   {
     label: 'Reprodução',
-    icon: 'sync',
+    icon: 'venus-mars',
     backgroundColor: '#80a04b',
     tipo: 'reproducao',
     navigate: (navigator) => navigator.navigate('Reprodução')
   },
   {
     label: 'Exames',
-    icon: 'sync',
+    icon: 'stethoscope',
     backgroundColor: '#332411',
     tipo: 'exames',
     navigate: (navigator) => navigator.navigate('Exames')

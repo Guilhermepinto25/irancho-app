@@ -1,7 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Text, View, StyleSheet } from 'react-native'
+import { View, StyleSheet } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome5';
+import RalewayText from '~/components/layout/RalewayText'
 
 const propTypes = {
   atividade: PropTypes.object,
@@ -21,7 +22,7 @@ const AtividadeItem = ({ atividade }) => (
       size={30}
       color="#000000"
     />
-    <Text style={styles.label}>{atividade.label}</Text>
+    <RalewayText style={styles.label}>{atividade.label}</RalewayText>
   </View>
 )
 

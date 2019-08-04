@@ -1,7 +1,8 @@
 import React from 'react'
-import { StyleSheet, Image } from 'react-native'
+import { StyleSheet } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome5'
-import { Drawer, View, Text, Header, Left, Body, Right, Title, Container } from 'native-base'
+import { Drawer, View, Header, Left, Body, Right, Container } from 'native-base'
+import RalewayText from '~/components/layout/RalewayText'
 
 const navItems = [
   { label: 'Home', icon: 'home', onClick: () => {} },
@@ -13,14 +14,14 @@ const SideBarContent = () => (
   <Container style={[styles.container, { backgroundColor: '#fff' }]}>
     <View style={styles.iranchoContainer}>
       <Icon name="user" size={30} color="#454445" />
-      <Text>iRancho</Text>
+      <RalewayText>iRancho App</RalewayText>
     </View>
     <View style={styles.navigationItems}>
       {navItems.map(item => (
-        <Text>
+        <RalewayText>
           <Icon name={item.icon} size={25} color="#454445" />
           {item.label}
-        </Text>
+        </RalewayText>
       ))}
     </View>
   </Container>
@@ -48,9 +49,9 @@ const SideBar = ({ children }) => {
           />
         </Left>
         <Body>
-          <Title style={styles.headerTitle}>
+          <RalewayText style={styles.headerTitle}>
             iRancho App
-          </Title>
+          </RalewayText>
         </Body>
         <Right />
       </Header>
@@ -82,7 +83,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#eaeaea'
   },
   headerTitle: {
-    color: '#454445'
+    color: '#454445',
+    fontSize: 20,
   }
 })
 

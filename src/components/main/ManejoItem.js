@@ -1,29 +1,34 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Icon from 'react-native-vector-icons/FontAwesome5';
-import { StyleSheet, Text, View } from 'react-native'
+import { StyleSheet, View, TouchableOpacity } from 'react-native'
 import Moment from 'moment'
+import RalewayText from '~/components/layout/RalewayText'
 
 const propTypes = {
   manejo: PropTypes.object,
-  onPressSincronizar: PropTypes.func
+  onPressManejo: PropTypes.func,
+  onPressSincronizar: PropTypes.func,
+  style: PropTypes.any
 }
 
 const defaultProps = {
   manejo: {},
-  onPressSincronizar: () => { }
+  onPressManejo: () => { },
+  onPressSincronizar: () => { },
+  style: []
 }
 
-const ManejoItem = ({ manejo, onPressSincronizar }) => {
+const ManejoItem = ({ manejo, onPressManejo, onPressSincronizar, style }) => {
   const { idManejo, nome, dtCriacao } = manejo.documento
   const { quantidadeProcessada } = manejo.documentoExecucao
 
   const getFormattedDate = (dt) => dt ? Moment(dt).format('d/MM/YYYY') : ''
 
   return (
-    <View style={styles.container}>
+    <TouchableOpacity  style={[styles.container].concat(style)} onPress={() => onPressManejo(idManejo)}>
       <View style={[styles.wrapper, styles.spaceBottom]}>
-        <Text style={[styles.item]}>{nome}</Text>
+        <RalewayText style={[styles.item]}>{nome}</RalewayText>
         <Icon
           name="sync"
           size={15}
@@ -32,20 +37,16 @@ const ManejoItem = ({ manejo, onPressSincronizar }) => {
         />
       </View>
       <View style={styles.wrapper}>
-        <Text style={styles.item}>{quantidadeProcessada}</Text>
-        <Text style={[styles.item, styles.right]}>{getFormattedDate(dtCriacao)}</Text>
+        <RalewayText style={styles.item}>{quantidadeProcessada}</RalewayText>
+        <RalewayText style={[styles.item, styles.right]}>{getFormattedDate(dtCriacao)}</RalewayText>
       </View>
-    </View>
+    </TouchableOpacity>
   )
 }
 
 const styles = StyleSheet.create({
   container: {
-    padding: 10,
-    borderWidth: 1,
-    borderColor: '#000000',
-    borderRadius: 5,
-    margin: 5
+    padding: 10
   },
   wrapper: {
     flexDirection: 'row'

@@ -6,19 +6,22 @@ import { Container } from 'native-base';
 
 const propTypes = {
   manejos: PropTypes.array,
+  onPressManejo: PropTypes.func,
   onPressSincronizarManejo: PropTypes.func
 }
 
 const defaultProps = {
   manejos: [],
+  onPressManejo: () => { },
   onPressSincronizarManejo: () => { }
 }
 
-const MainPage = ({ manejos, onPressSincronizarManejo }) => {
+const MainPage = ({ manejos, onPressManejo, onPressSincronizarManejo }) => {
   return (
     <Container>
       <ManejoList
         manejos={manejos}
+        onPressManejo={onPressManejo}
         onPressSincronizarManejo={onPressSincronizarManejo}
       />
     </Container>

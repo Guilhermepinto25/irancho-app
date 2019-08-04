@@ -1,12 +1,13 @@
 import React from 'react';
-import { View, Text, ActivityIndicator, StyleSheet} from 'react-native';
+import { View, ActivityIndicator, StyleSheet } from 'react-native';
+import RalewayText from '~/components/layout/RalewayText'
 
 export default function LoadingPage() {
   return (
     <View style={styles.container}>
-        <Text>Loading</Text>
-        <ActivityIndicator size="large" />
-      </View>
+      <RalewayText>Loading</RalewayText>
+      <ActivityIndicator size="large" />
+    </View>
   )
 }
 
