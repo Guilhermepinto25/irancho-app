@@ -195,6 +195,7 @@ dependencies {
     implementation "com.google.android.gms:play-services-base:11.6.0"
     implementation "com.google.firebase:firebase-core:16.0.8"
     implementation 'com.google.firebase:firebase-auth:18.0.0'
+    implementation project(':react-native-bluetooth-serial')
 
     if (enableHermes) {
       def hermesPath = "../../node_modules/hermesvm/android/";
