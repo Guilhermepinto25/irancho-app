@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet } from 'react-native';
+import withSideBar from '~/components/withSideBar';
 
 function Pesagem() {
   const [ isFocused, setFocused ] = useState(false)
@@ -71,4 +72,4 @@ const styles = StyleSheet.create({
   }
 })
 
-export default Pesagem;
+export default withSideBar(Pesagem);

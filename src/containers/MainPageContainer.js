@@ -1,5 +1,6 @@
 import React from 'react';
 import MainPage from '~/components/main/MainPage';
+import withSideBar from '~/components/withSideBar'
 
 const MainPageContainer = ({ navigation }) => {
 
@@ -69,5 +70,4 @@ MainPageContainer.navigationOptions = {
   title: 'Manejos',
 }
 
-
-export default MainPageContainer
+export default withSideBar(MainPageContainer)

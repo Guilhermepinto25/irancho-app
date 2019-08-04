@@ -3,11 +3,12 @@ import { StyleSheet } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome5'
 import { Drawer, View, Header, Left, Body, Right, Container } from 'native-base'
 import RalewayText from '~/components/layout/RalewayText'
+import firebase from 'react-native-firebase'
 
 const navItems = [
   { label: 'Home', icon: 'home', onClick: () => {} },
   { label: 'Configurações', icon: 'cogs', onClick: () => {} },
-  { label: 'Logout', icon: 'sign-out-alt', onClick: () => {} }
+  { label: 'Logout', icon: 'sign-out-alt', onClick: () => firebase.auth().signOut() }
 ]
 
 const SideBarContent = () => (
@@ -18,7 +19,7 @@ const SideBarContent = () => (
     </View>
     <View style={styles.navigationItems}>
       {navItems.map(item => (
-        <RalewayText>
+        <RalewayText onPress={item.onClick}>
           <Icon name={item.icon} size={25} color="#454445" />
           {item.label}
         </RalewayText>

@@ -1,18 +1,17 @@
 import React, { useEffect, useState } from 'react';
-import { Platform,
-  ScrollView,
+import {
   StyleSheet,
   Switch,
   Text,
   TouchableOpacity,
-  // TouchableHighlight,
   View,
-  // Modal,
   PermissionsAndroid,
   ActivityIndicator } from 'react-native';
 import DeviceList from '../components/bluetooth/DeviceList';
 import BluetoothSerial from 'react-native-bluetooth-serial'
 import { Buffer } from 'buffer'
+import withSideBar from '~/components/withSideBar';
+
 global.Buffer = Buffer
 
 const Button = ({ title, onPress, style, textStyle }) =>
@@ -289,4 +288,4 @@ const styles = StyleSheet.create({
 })
 
 
-export default BluetoothPageContainer;
+export default withSideBar(BluetoothPageContainer);

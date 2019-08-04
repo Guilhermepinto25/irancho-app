@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { View, StyleSheet } from 'react-native'
+import { StyleSheet, TouchableOpacity } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import RalewayText from '~/components/layout/RalewayText'
 
@@ -14,8 +14,11 @@ const defaultProps = {
   onPressAtividade: () => { }
 }
 
-const AtividadeItem = ({ atividade }) => (
-  <View style={[styles.container, { backgroundColor: atividade.backgroundColor }]}>
+const AtividadeItem = ({ atividade, navigation }) => (
+  <TouchableOpacity 
+    style={[styles.container, { backgroundColor: atividade.backgroundColor }]}
+    onPress={() => atividade.navigate(navigation)}
+  >
     <Icon
       style={styles.icon}
       name={atividade.icon}
@@ -23,7 +26,7 @@ const AtividadeItem = ({ atividade }) => (
       color="#000000"
     />
     <RalewayText style={styles.label}>{atividade.label}</RalewayText>
-  </View>
+  </TouchableOpacity >
 )
 
 const styles = StyleSheet.create({

@@ -39,7 +39,7 @@ export default mapeamento = [
     icon: 'venus-mars',
     backgroundColor: '#80a04b',
     tipo: 'reproducao',
-    navigate: (navigator) => navigator.navigate('Reprodução')
+    navigate: (navigator) => navigator.navigate('Reproducao')
   },
   {
     label: 'Exames',

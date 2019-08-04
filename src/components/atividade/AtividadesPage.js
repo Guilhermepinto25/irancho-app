@@ -14,13 +14,14 @@ const defaultProps = {
   onPressAtividade: () => { }
 }
 
-const AtividadesPage = ({ atividades, onPressAtividade }) => (
+const AtividadesPage = ({ atividades, onPressAtividade, navigation }) => (
   <ScrollView>
     <View style={styles.container}>
       {atividades && atividades.map((atividade) => (
         <AtividadeItem
           atividade={atividade}
           onPressAtividade={onPressAtividade}
+          navigation={navigation}
         />
       ))}
     </View>

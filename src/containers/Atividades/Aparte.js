@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
+import withSideBar from '~/components/withSideBar';
 
 class Aparte extends Component {
   constructor(props) {
@@ -17,4 +18,4 @@ class Aparte extends Component {
   }
 }
 
-export default Aparte;
+export default withSideBar(Aparte);
