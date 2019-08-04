@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { StyleSheet, Text, View } from 'react-native'
+import Moment from 'moment'
 
 const propTypes = {
   manejo: PropTypes.object,
@@ -10,23 +11,29 @@ const propTypes = {
 
 const defaultProps = {
   manejo: {},
-  onPressSincronizar: () => {}
+  onPressSincronizar: () => { }
 }
 
 const ManejoItem = ({ manejo, onPressSincronizar }) => {
-  console.tron.log(manejo);
-  const {idManejo, nome, dtCriacao} = manejo.documento;
-  const {quantidadeProcessada} = manejo.documentoExecucao;
+  const { idManejo, nome, dtCriacao } = manejo.documento
+  const { quantidadeProcessada } = manejo.documentoExecucao
+
+  const getFormattedDate = (dt) => dt ? Moment(dt).format('d/MM/YYYY') : ''
 
   return (
     <View style={styles.container}>
       <View style={[styles.wrapper, styles.spaceBottom]}>
         <Text style={[styles.item]}>{nome}</Text>
-        <Icon name="sync" size={15} color="#000000" onPress={() => onPressSincronizar(idManejo)} />
+        <Icon
+          name="sync"
+          size={15}
+          color="#000000"
+          onPress={() => onPressSincronizar(idManejo)}
+        />
       </View>
       <View style={styles.wrapper}>
         <Text style={styles.item}>{quantidadeProcessada}</Text>
-        <Text style={[styles.item, styles.right]}>{dtCriacao}</Text>
+        <Text style={[styles.item, styles.right]}>{getFormattedDate(dtCriacao)}</Text>
       </View>
     </View>
   )

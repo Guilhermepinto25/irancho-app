@@ -8,7 +8,10 @@ const MainPageContainer = () => {
   }
 
   return (
-    <MainPage manejos={manejos} onPressSincronizarManejo={onPressSincronizarManejo} />
+    <MainPage
+      manejos={manejos}
+      onPressSincronizarManejo={onPressSincronizarManejo}
+    />
   );
 }
 

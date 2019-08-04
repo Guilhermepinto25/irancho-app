@@ -10,7 +10,7 @@ const propTypes = {
 
 const defaultProps = {
   manejos: [],
-  onPressSincronizarManejo: () => {}
+  onPressSincronizarManejo: () => { }
 }
 
 const ManejoList = ({ manejos, onPressSincronizarManejo }) => {
@@ -18,7 +18,11 @@ const ManejoList = ({ manejos, onPressSincronizarManejo }) => {
     <FlatList
       data={manejos}
       renderItem={({ item, index }) => (
-        <ManejoItem key={index} manejo={item} onPressSincronizar={onPressSincronizarManejo} />
+        <ManejoItem
+          key={index}
+          manejo={item}
+          onPressSincronizar={onPressSincronizarManejo}
+        />
       )}
     />
   )

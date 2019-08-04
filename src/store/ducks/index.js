@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
+import drawer from './drawer'
 
 const reducers = combineReducers({
-  // Remova essa linha depois de adicionar seus ducks
-  example: () => [],
+  drawer
 });
 
 export default reducers;

@@ -1,7 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { StyleSheet, View } from 'react-native'
+import { StyleSheet } from 'react-native'
 import ManejoList from './ManejoList'
+import { Container } from 'native-base';
 
 const propTypes = {
   manejos: PropTypes.array,
@@ -10,14 +11,17 @@ const propTypes = {
 
 const defaultProps = {
   manejos: [],
-  onPressSincronizarManejo: () => {}
+  onPressSincronizarManejo: () => { }
 }
 
 const MainPage = ({ manejos, onPressSincronizarManejo }) => {
   return (
-    <View style={styles.container}>
-      <ManejoList manejos={manejos} onPressSincronizarManejo={onPressSincronizarManejo} />
-    </View>
+    <Container>
+      <ManejoList
+        manejos={manejos}
+        onPressSincronizarManejo={onPressSincronizarManejo}
+      />
+    </Container>
   );
 }
 
