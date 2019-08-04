@@ -11,7 +11,7 @@ import Routes from '~/routes'
 function App() {
   return (
     <Provider store={store}>
-      <StatusBar backgroundColor="#8da614" barStyle="light-content" />
+      <StatusBar backgroundColor="#000" barStyle="light-content" />
       <Routes />
     </Provider>
   )
