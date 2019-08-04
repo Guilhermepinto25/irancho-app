@@ -6,7 +6,7 @@ const MainPageContainer = ({ navigation }) => {
 
   onPressManejo = (idManejo) => {
     console.tron.log(idManejo)
-    navigation.navigate('Atividades')
+    navigation.navigate('Identificacao')
   }
 
   onPressSincronizarManejo = (idManejo) => {

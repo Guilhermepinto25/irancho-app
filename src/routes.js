@@ -8,6 +8,7 @@ import BluetoothPageContainer from '~/containers/BluetoothPageContainer'
 import AtividadesPageContainer from './containers/AtividadesPageContainer'
 import Pesagem from '~/containers/Atividades/Pesagem';
 import Aparte from '~/containers/Atividades/Aparte';
+import IdentificacaoContainer from './containers/IdentificacaoContainer'
 
 const Routes = createAppContainer(createSwitchNavigator({ 
     Loading: LoadingPageContainer,
@@ -18,6 +19,7 @@ const Routes = createAppContainer(createSwitchNavigator({
     Atividades: AtividadesPageContainer,
     Pesagem: Pesagem,
     Aparte: Aparte,
+    Identificacao: IdentificacaoContainer
   },
   {
     initialRouteName: 'Loading'
