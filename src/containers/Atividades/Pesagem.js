@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet } from 'react-native';
 import withSideBar from '~/components/withSideBar';
 
-function Pesagem() {
+function Pesagem({ navigation }) {
   const [ isFocused, setFocused ] = useState(false)
   const [ peso, setPeso] = useState('')
 
@@ -23,7 +23,7 @@ function Pesagem() {
         maxLength={8}
         />
       </View>
-      <TouchableOpacity style={styles.button} onPress={() => {}}>
+      <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('Atividades')}>
         <Text style={styles.buttonText}>Continuar</Text>
       </TouchableOpacity>
     </>
