@@ -4,7 +4,7 @@ import withSideBar from '~/components/withSideBar';
 
 function Pesagem() {
   const [ isFocused, setFocused ] = useState(false)
-  const [ peso, setPeso] = useState(false)
+  const [ peso, setPeso] = useState('')
 
   return (
     <>
