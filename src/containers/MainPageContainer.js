@@ -55,4 +55,4 @@ const manejos = [
   }
 ]
 
-export default MainPageContainer;
+export default MainPageContainer
