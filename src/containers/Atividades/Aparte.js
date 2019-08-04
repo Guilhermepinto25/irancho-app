@@ -1,21 +1,25 @@
-import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import React from 'react';
+import AtividadesPage from '~/components/atividade/AtividadesPage';
+import mapeamento from '~/components/aparte/mapeamento';
 import withSideBar from '~/components/withSideBar';
 
-class Aparte extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-    };
+const Aparte = ({ navigation }) => {
+
+  onPressAtividade = (idAtividade) => {
+    console.tron.log(idAtividade)
   }
 
-  render() {
-    return (
-      <View>
-        <Text> Aparte </Text>
-      </View>
-    );
-  }
+  return (
+    <AtividadesPage 
+      atividades={mapeamento} 
+      onPressAtividade={onPressAtividade} 
+      navigation={navigation}
+    />
+  );
 }
 
-export default withSideBar(Aparte);
+Aparte.navigationOptions = {
+  title: 'Aparte',
+}
+
+export default withSideBar(Aparte)
