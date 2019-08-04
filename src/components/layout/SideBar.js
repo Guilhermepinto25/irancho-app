@@ -1,13 +1,13 @@
 import React from 'react'
 import { StyleSheet } from 'react-native'
 import Icon from 'react-native-vector-icons/FontAwesome5'
-import { Drawer, View, Header, Left, Body, Right, Container } from 'native-base'
+import { Drawer, View, Header, Left, Body, Right, Container, Row } from 'native-base'
 import RalewayText from '~/components/layout/RalewayText'
 import firebase from 'react-native-firebase'
 
 const navItems = [
   { label: 'Home', icon: 'home', onClick: () => {} },
-  { label: 'Configurações', icon: 'cogs', onClick: () => {} },
+  { label: 'Configurações', icon: 'cogs', onClick:() => {}},
   { label: 'Logout', icon: 'sign-out-alt', onClick: () => firebase.auth().signOut() }
 ]
 
@@ -19,7 +19,7 @@ const SideBarContent = () => (
     </View>
     <View style={styles.nagitvigationItems}>
       {navItems.map((item, index) => (
-        <RalewayText onPress={item.onClick} key={index}>
+        <RalewayText onPress={item.onClick} key={index} style={styles.icon}>
           <Icon name={item.icon} size={25} color="#454445" />
           {item.label}
         </RalewayText>
@@ -75,6 +75,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#eaeaea',
     marginBottom: 10,
     justifyContent: 'center',
+    padding: 10,
     alignItems: 'flex-start'
   },
   navigationItems: {
@@ -86,6 +87,9 @@ const styles = StyleSheet.create({
   headerTitle: {
     color: '#454445',
     fontSize: 20,
+  },
+  icon:{
+    padding: 10
   }
 })
 

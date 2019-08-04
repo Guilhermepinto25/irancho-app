@@ -287,5 +287,9 @@ const styles = StyleSheet.create({
   }
 })
 
+BluetoothPageContainer.navigationOptions = {
+  title : 'Bluetooth'
+}
+
 
 export default withSideBar(BluetoothPageContainer);
