@@ -11,7 +11,8 @@ const mapFirebaseCodes = {
   'auth/wrong-password': 'Senha inválida'
 }
 
-export default function LoginPageContainer() {
+export default function LoginPageContainer({ navigation }) {
+
   login = async (email, password) => {
 
     console.tron.log(email, password);
@@ -19,6 +20,7 @@ export default function LoginPageContainer() {
     try {
       if(email && password) {
         const user = await firebase.auth().signInWithEmailAndPassword(email, password);
+        navigation.navigate('NewPage')
         console.tron.log(user)
       }
     } catch (err) {
@@ -44,6 +46,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#F5FCFF',
-    padding: 20
+    padding: 2
   }
 })
