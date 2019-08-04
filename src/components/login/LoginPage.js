@@ -7,10 +7,10 @@ const propTypes = {
 };
 
 const defaultProps = {
-  login: () => {}
+  onPressLogin: () => {}
 };
 
-function LoginPage({ login }) {
+export default function LoginPage({ onPressLogin }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
@@ -18,6 +18,7 @@ function LoginPage({ login }) {
     <View style={styles.container}>
         <TextInput 
           style={styles.input}
+          autoCapitalize='none'
           placeholder="Digite seu e-mail"
           value={email}
           onChangeText={setEmail}
@@ -30,7 +31,7 @@ function LoginPage({ login }) {
           onChangeText={setPassword}
         />
 
-        <TouchableOpacity style={styles.button} onPress={() => login(email, password)}>
+        <TouchableOpacity style={styles.button} onPress={() => onPressLogin(email, password)}>
           <Text style={styles.buttonText}>Logar</Text>
         </TouchableOpacity>
       </View>
@@ -73,5 +74,3 @@ const styles = StyleSheet.create({
 
 LoginPage.propTypes = propTypes;
 LoginPage.defaultProps = defaultProps;
-
-export default LoginPage;

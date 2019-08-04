@@ -21,7 +21,7 @@ export default function LoginPageContainer({ navigation }) {
       if(email && password) {
         const user = await firebase.auth().signInWithEmailAndPassword(email, password);
         navigation.navigate('NewPage')
-        console.tron.log(user)
+        //console.tron.log(user)
       }
     } catch (err) {
       console.tron.log(err.code)
@@ -31,7 +31,7 @@ export default function LoginPageContainer({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <LoginPage login={this.login} />
+      <LoginPage onPressLogin={this.login} />
     </View>
   );
 }
