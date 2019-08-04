@@ -1,10 +1,11 @@
 import React from 'react';
 import MainPage from '~/components/main/MainPage';
 
-const MainPageContainer = () => {
+const MainPageContainer = ({ navigation }) => {
 
   onPressSincronizarManejo = (idManejo) => {
     console.tron.log(idManejo)
+    navigation.navigate('Atividades')
   }
 
   return (
@@ -57,5 +58,10 @@ const manejos = [
     }
   }
 ]
+
+MainPageContainer.navigationOptions = {
+  title: 'Manejos',
+}
+
 
 export default MainPageContainer

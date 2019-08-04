@@ -9,7 +9,10 @@ const AtividadesPageContainer = () => {
   }
 
   return (
-    <AtividadesPage atividades={mapeamento} onPressAtividade={onPressAtividade} />
+    <AtividadesPage 
+      atividades={mapeamento} 
+      onPressAtividade={onPressAtividade} 
+    />
   );
 }
 

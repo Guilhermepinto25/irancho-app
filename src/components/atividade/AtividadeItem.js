@@ -10,16 +10,16 @@ const propTypes = {
 
 const defaultProps = {
   atividade: {},
-  onPressAtividade: () => {}
+  onPressAtividade: () => { }
 }
 
 const AtividadeItem = ({ atividade }) => (
-  <View style={styles.container}>
+  <View style={[styles.container, { backgroundColor: atividade.backgroundColor }]}>
     <Icon
-      style={styles.icon}    
+      style={styles.icon}
       name={atividade.icon}
-      size={30} 
-      color="#000000" 
+      size={30}
+      color="#000000"
     />
     <Text style={styles.label}>{atividade.label}</Text>
   </View>
@@ -28,21 +28,20 @@ const AtividadeItem = ({ atividade }) => (
 const styles = StyleSheet.create({
   container: {
     padding: 10,
-    borderWidth: 1,
-    borderColor: '#000000',
-    width: 150,
-    maxWidth: 150,
+    width: '50%',
+    maxWidth: '50%',
     height: 150,
     flexGrow: 1,
-    margin: 1,
     justifyContent: 'center',
     alignItems: 'center'
   },
   icon: {
-    marginBottom: 10
+    marginBottom: 10,
+    color: '#FFFFFF'
   },
   label: {
-    fontSize: 18
+    fontSize: 18,
+    color: '#FFFFFF'
   }
 })
 

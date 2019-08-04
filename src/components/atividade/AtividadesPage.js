@@ -1,7 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { View, StyleSheet } from 'react-native'
+import { StyleSheet, View } from 'react-native'
 import AtividadeItem from './AtividadeItem'
+import { ScrollView } from 'react-native-gesture-handler'
 
 const propTypes = {
   atividades: PropTypes.array,
@@ -10,15 +11,20 @@ const propTypes = {
 
 const defaultProps = {
   atividades: [],
-  onPressAtividade: () => {}
+  onPressAtividade: () => { }
 }
 
 const AtividadesPage = ({ atividades, onPressAtividade }) => (
-  <View style={styles.container}>
-    {atividades && atividades.map((atividade) => (
-      <AtividadeItem atividade={atividade} />
-    ))}
-  </View>
+  <ScrollView>
+    <View style={styles.container}>
+      {atividades && atividades.map((atividade) => (
+        <AtividadeItem
+          atividade={atividade}
+          onPressAtividade={onPressAtividade}
+        />
+      ))}
+    </View>
+  </ScrollView>
 )
 
 const styles = StyleSheet.create({
