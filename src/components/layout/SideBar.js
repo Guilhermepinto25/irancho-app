@@ -17,7 +17,7 @@ const SideBarContent = () => (
       <Icon name="user" size={30} color="#454445" />
       <RalewayText>iRancho App</RalewayText>
     </View>
-    <View style={styles.navigationItems}>
+    <View style={styles.nagitvigationItems}>
       {navItems.map((item, index) => (
         <RalewayText onPress={item.onClick} key={index}>
           <Icon name={item.icon} size={25} color="#454445" />
