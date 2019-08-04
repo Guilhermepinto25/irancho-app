@@ -12,6 +12,8 @@ import { Platform,
   ActivityIndicator } from 'react-native';
 import DeviceList from '../components/bluetooth/DeviceList';
 import BluetoothSerial from 'react-native-bluetooth-serial'
+import { Buffer } from 'buffer'
+global.Buffer = Buffer
 
 const Button = ({ title, onPress, style, textStyle }) =>
   <TouchableOpacity style={[ styles.button, style ]} onPress={onPress}>
@@ -42,18 +44,6 @@ function BluetoothPageContainer() {
       }
       setConnected(false)
     })
-    BluetoothSerial.on('data', (data) => { console.tron.log(data); });
-    BluetoothSerial.readFromDevice().then((data) => {console.tron.log(data)});
-    BluetoothSerial.on('read', data => {
-      console.tron.log(data);
-    });
-
-    BluetoothSerial.withDelimiter('\r').then(() => {
-    
-      BluetoothSerial.on('read', data => {
-        console.log(data.data);
-     });
-    });
     
   }, [])
 
@@ -151,6 +141,21 @@ function BluetoothPageContainer() {
       setDevice(device)
       setConnected(true)
       setConnecting(false)
+      
+      setInterval( () => BluetoothSerial.write(new Buffer('{RW}')) , 250)
+      BluetoothSerial.on('data', (data) => { console.tron.log('1' + data); });
+      setInterval( () => BluetoothSerial.write(new Buffer('{RW}')) , 250)
+      BluetoothSerial.readFromDevice().then((data) => {console.tron.log('2' + data)});
+      BluetoothSerial.on('read', data => {
+        console.tron.log('3' + data);
+      });
+
+      BluetoothSerial.withDelimiter('\r').then(() => {
+      
+        BluetoothSerial.on('read', data => {
+          console.tron.log('4' + data.data);
+      });
+    });
     })
     .catch((err) => console.tron.log(err.message))
   }
@@ -161,43 +166,36 @@ function BluetoothPageContainer() {
     .catch((err) => console.tron.log(err.message))
   }
   
-  const activeTabStyle = { borderBottomWidth: 6, borderColor: '#009688' }
+  const activeTabStyle = { borderBottomWidth: 6, borderColor: '#8da614' }
   return (
     <View style={{ flex: 1 }}>
       <View style={styles.topBar}>
-        <Text style={styles.heading}>Bluetooth Serial Example</Text>
-        {Platform.OS === 'android'
-        ? (
-          <View style={styles.enableInfoWrapper}>
-            <Text style={{ fontSize: 12, color: '#FFFFFF' }}>
-              {isEnabled ? 'disable' : 'enable'}
-            </Text>
-            <Switch
-              onValueChange={toggleBluetooth.bind(this)}
-              value={isEnabled} />
-          </View>
-        ) : null}
+        <Text style={styles.heading}>Conectar Dispositivos</Text>
+        <View style={styles.enableInfoWrapper}>
+          <Text style={{ fontSize: 12, color: '#4A301B' }}>
+            {isEnabled ? 'Habilitado' : 'Desabilitado'}
+          </Text>
+          <Switch onValueChange={toggleBluetooth.bind(this)} value={isEnabled} onTintColor={'#8da614'} thumbColor={'#FFF'} />
+        </View>
       </View>
 
-      {Platform.OS === 'android'
-      ? (
-        <View style={[styles.topBar, { justifyContent: 'center', paddingHorizontal: 0 }]}>
-          <TouchableOpacity style={[styles.tab, section === 0 && activeTabStyle]} onPress={() => setSection(0)}>
-            <Text style={{ fontSize: 14, color: '#FFFFFF' }}>PAIRED DEVICES</Text>
-          </TouchableOpacity>
-          <TouchableOpacity style={[styles.tab, section === 1 && activeTabStyle]} onPress={() => setSection(1)}>
-            <Text style={{ fontSize: 14, color: '#FFFFFF' }}>UNPAIRED DEVICES</Text>
-          </TouchableOpacity>
-        </View>
-      ) : null}
+      <View style={[styles.topBar, { justifyContent: 'center', paddingHorizontal: 0 }]}>
+        <TouchableOpacity style={[styles.tab, section === 0 && activeTabStyle]} onPress={() => setSection(0)}>
+          <Text style={{ fontSize: 14, color: '#4A301B' }}>Dispositivos Pareados</Text>
+        </TouchableOpacity>
+        <TouchableOpacity style={[styles.tab, section === 1 && activeTabStyle]} onPress={() => setSection(1)}>
+          <Text style={{ fontSize: 14, color: '#4A301B' }}>Dispositivos Disponíveis</Text>
+        </TouchableOpacity>
+      </View>
       {discovering && section === 1
       ? (
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
           <ActivityIndicator
             style={{ marginBottom: 15 }}
-            size={60} />
+            size={60}
+            color={'#4A301B'} />
           <Button
-            textStyle={{ color: '#FFFFFF' }}
+            textStyle={{ color: '#4A301B' }}
             style={styles.buttonRaised}
             title='Cancel Discovery'
             onPress={() => cancelDiscovery()} />
@@ -210,31 +208,19 @@ function BluetoothPageContainer() {
           onDevicePress={(device) => onDevicePress(device)} />
       )}
 
-
-      <View style={{ alignSelf: 'flex-end', height: 52 }}>
-        <ScrollView
-          horizontal
-          contentContainerStyle={styles.fixedFooter}>
-          {Platform.OS === 'android' && section === 1
-          ? (
-            <Button title={discovering ? '... Discovering' : 'Discover devices'} onPress={discoverUnpaired.bind(this)} />
-          ) : null}
-          {Platform.OS === 'android' && !isEnabled
-          ? (
-            <Button title='Request enable' onPress={() => requestEnable()} />
-          ) : null}
-        </ScrollView>
-      </View>
+      {section === 1 ? (
+        <Button title={discovering ? '... Buscando' : 'Buscar dispositivos'} onPress={discoverUnpaired.bind(this)} />
+      ) : null}
+      {!isEnabled ? (
+        <Button title='Request enable' onPress={() => requestEnable()} />
+      ) : null}
     </View>
 
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 0.9,
-    backgroundColor: '#F5FCFF'
-  },
+  
   topBar: { 
     height: 56, 
     paddingHorizontal: 16,
@@ -242,13 +228,13 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between', 
     alignItems: 'center' ,
     elevation: 6,
-    backgroundColor: '#7B1FA2'
+    backgroundColor: '#eaeaea'
   },
   heading: {
     fontWeight: 'bold',
     fontSize: 16,
     alignSelf: 'center',
-    color: '#FFFFFF'
+    color: '#4A301B'
   },
   enableInfoWrapper: {
     flexDirection: 'row',
@@ -274,19 +260,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     fontSize: 18,
     marginVertical: 10,
-    color: '#238923'
-  },
-  listContainer: {
-    borderColor: '#ccc',
-    borderTopWidth: 0.5
-  },
-  listItem: {
-    flex: 1,
-    height: 48,
-    paddingHorizontal: 16,
-    borderColor: '#ccc',
-    borderBottomWidth: 0.5,
-    justifyContent: 'center'
+    color: '#8da614'
   },
   fixedFooter: {
     flexDirection: 'row',
@@ -303,12 +277,12 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   buttonText: {
-    color: '#7B1FA2',
+    color: '#634125',
     fontWeight: 'bold',
     fontSize: 14
   },
   buttonRaised: {
-    backgroundColor: '#7B1FA2',
+    backgroundColor: '#eaeaea',
     borderRadius: 2,
     elevation: 2
   }
